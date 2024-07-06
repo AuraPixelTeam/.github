@@ -1,4 +1,3 @@
-@@ -0,0 +1,9 @@
 ![Aura Team](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Aura%20Team&fontSize=70)
 
 - 🔭 | Aura Team is an organization that providing high quality network resources and services.
